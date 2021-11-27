@@ -41,4 +41,4 @@
 * Semana 11 - https://colab.research.google.com/drive/1osTbdNuFqxJc_YLTBGwnAxMkfROZiyCq?usp=sharing
 * Semana 12 - https://colab.research.google.com/drive/12cgB4aX8k8OdrSfH7QsDNLVAQ0Lb3T81?usp=sharing
 * Semana 13 - https://colab.research.google.com/drive/1EotcvvXkjDlKs4nSBNu2jaC2bs_d8Ix3?usp=sharing
-* Semana 14- https://colab.research.google.com/drive/1wpNXP9XY6iDaHyps18ZuSoF2i8LcoU3U?usp=sharing
+* Semana 14 - https://colab.research.google.com/drive/1wpNXP9XY6iDaHyps18ZuSoF2i8LcoU3U?usp=sharing
